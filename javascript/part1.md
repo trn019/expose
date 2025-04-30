@@ -18,4 +18,4 @@
 > The code would return an error because const makes a variable unchangeable and line 7 is trying to reassign 'result' into num1 + num2. This would go against the properties of const. 
 
 ## 7. What is printed by line 13? If the code returns an error, explain why. 
-> The code would return an error because const makes a variable unchangeable and line 7 is trying to reassign 'result' into num1 + num2. This would go against the properties of const. 
+> The code would return an error because const makes a variable unchangeable and line 7 is trying to reassign 'result' into num1 + num2. This would go against the properties of const.  
